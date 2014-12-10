@@ -1,0 +1,9 @@
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.exe.config
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.exe
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\bin\Debug\Homework7.pdb
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.csprojResolveAssemblyReference.cache
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.Form1.resources
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.Cache
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.exe
+c:\users\blake\documents\visual studio 2013\Projects\Homework7\Homework7\obj\Debug\Homework7.pdb
