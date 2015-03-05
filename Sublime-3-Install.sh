@@ -4,6 +4,7 @@ Name=Sublime Text 3
 Comment=Edit text files
 Exec=/opt/sublime-text-3/sublime_text %f
 Icon=/opt/sublime-text-3/Icon/128x128/sublime-text.png
+StartupWMClass=Sublime_text
 Terminal=false
 Type=Application
 Encoding=UTF-8
