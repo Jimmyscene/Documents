@@ -23,7 +23,7 @@ mkdir -pv "/opt/sublime-text-3"
 mv -fv * "/opt/sublime-text-3"
 echo "${SCRIPT}" > "/usr/local/bin/subl"
 chmod +x "/usr/local/bin/subl"
-echo "${SHORTCUT}" > "~.local/share/applications/sublime-text-3.desktop"
+echo "${SHORTCUT}" > "/.local/share/applications/sublime-text-3.desktop"
 ln -s /opt/sublime-test-3/sublime_text /usr/bin/subl
 
 echo "Finish!"
